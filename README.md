@@ -1,3 +1,3 @@
 # Demo
 
-This is the first demo project!
+This is the first demo project for this class. 
